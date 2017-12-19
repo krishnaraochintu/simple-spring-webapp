@@ -94,6 +94,7 @@
         Maven build(compile) instructions go here in the form of plugins
     -->
     <build>
+	<finalName>simple-spring-webapp</finalName>
         <plugins>
             <plugin>
                 <!-- Plugin to tell maven what version of java to use -->
